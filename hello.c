@@ -13,7 +13,7 @@ int main(int argc, char **argv) {
   printf("Lydia\n");
 
 
-  prinf("Lydia- Undeclared");
+  prinf("Undeclared\n");
 
   printf("Quinn\n");
 
